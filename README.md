@@ -18,6 +18,10 @@ This project is a **Learning Management System (LMS)** designed to facilitate on
 
 <img width="3058" height="2748" alt="localhost_5173_" src="https://github.com/user-attachments/assets/e34c8970-29e7-4c94-b243-60738e8cf149" />
 <img width="2282" height="1960" alt="localhost_5173_course-details_689a22d39e4941216664690b" src="https://github.com/user-attachments/assets/6fe6161d-21da-4ef5-8b5b-ac7f175fc424" />
+<img width="3058" height="1724" alt="localhost_5173_profile" src="https://github.com/user-attachments/assets/98d89417-41ad-43e6-96ed-f1c8e5f51784" />
+<img width="3058" height="1820" alt="localhost_5173_admin_courses" src="https://github.com/user-attachments/assets/3f7b5cf2-8f99-4fd2-bddc-7d6bf7f04dd4" />
+<img width="2282" height="3154" alt="localhost_5173_courses_search_query" src="https://github.com/user-attachments/assets/61429e49-c50b-44ca-bf36-c7971e23fcad" />
+<img width="2282" height="2702" alt="localhost_5173_admin_courses_689a24a8e60411d84b84a092" src="https://github.com/user-attachments/assets/79449091-ffd7-4198-b41a-775a41d0fc57" />
 
 ---
 
