@@ -14,6 +14,13 @@ This project is a **Learning Management System (LMS)** designed to facilitate on
 
 ---
 
+## Screenshots
+
+<img width="3058" height="2748" alt="localhost_5173_" src="https://github.com/user-attachments/assets/e34c8970-29e7-4c94-b243-60738e8cf149" />
+<img width="2282" height="1960" alt="localhost_5173_course-details_689a22d39e4941216664690b" src="https://github.com/user-attachments/assets/6fe6161d-21da-4ef5-8b5b-ac7f175fc424" />
+
+---
+
 ## Technologies Used
 - React.js+Vite+Redux (Frontend) 
 - Node.js / Express (Backend)
