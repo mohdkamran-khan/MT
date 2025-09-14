@@ -93,4 +93,5 @@ This project is open source.
 ## Contact
 For questions or suggestions, please contact mohdkamrankhan.dev@gmail.com or open an issue on this repository.
 
-## Connect with me: https://mohdkamran-khan.github.io/KAMRAN-portfolio/
+## Connect with me
+https://mohdkamran-khan.github.io/KAMRAN-portfolio/
